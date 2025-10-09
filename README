@@ -1,21 +1,222 @@
-- [Introduction](01-introduction.md) 
-- [Variables](02-variables.md)
-- [Data Types](03-data-types.md)
-- [Operators](04-operators.md) 
-- [Functions](05-functions.md) 
-- [Conditional Statements](06-conditional-statements.md) 
-- [Loops](07-loops.md)
-- [Arrays](08-arrays.md)
-- [Objects](09-objects.md) 
-- [Events](10-events.md) 
-- [DOM Manipulation](11-dom-manipulation.md) 
-- [ES6 Features](12-es6-features.md) 
-- [Classes](13-classes.md) 
-- [Promises](14-promises.md) 
-- [Async/Await](15-async-await.md) 
-- [JSON](16-json.md) 
-- [Error Handling](17-error-handling.md) 
-- [Local Storage](18-local-storage.md)
-- [Fetch API](19-fetch-api.md) 
-- [Modules](20-modules.md)
+# JavaScript Tutorial
 
+© TINITIATE.COM
+
+---
+
+## CONTENTS
+
+### 📘 [Introduction](./01-introduction.md)
+
+---
+
+### 🧩 [JavaScript Core Language](./)
+
+#### 🔹 [Variables](./02-variables.md)
+- Syntax and Declaration  
+- var, let, const  
+- Variable Hoisting  
+- Block Scope vs Function Scope  
+- Variable Naming Rules  
+
+#### 🔹 [Data Types](./03-data-types.md)
+- Primitive Data Types  
+  - String  
+  - Number  
+  - Boolean  
+  - Null  
+  - Undefined  
+  - Symbol  
+  - BigInt  
+- Non-Primitive Data Types  
+  - Object  
+  - Array  
+  - Function  
+
+#### 🔹 [Operators](./04-operators.md)
+- Arithmetic Operators  
+- Comparison Operators  
+- Assignment Operators  
+- Logical Operators  
+- Bitwise Operators  
+- Ternary Operator  
+- Type Operators (`typeof`, `instanceof`)
+
+---
+
+### 🧠 [Functions](./05-functions.md)
+- Function Declaration  
+- Function Expressions  
+- Arrow Functions  
+- Default Parameters  
+- Rest Parameters  
+- Anonymous Functions  
+- Callback Functions  
+- Higher Order Functions  
+- IIFE  
+- Pure and Impure Functions  
+- Return Values  
+
+---
+
+### ⚙️ [Conditional Statements](./06-conditional-statements.md)
+- if, if-else, switch  
+- Nested Conditions  
+- Short-hand if  
+- Use of Logical Operators  
+
+---
+
+### 🔁 [Loops](./07-loops.md)
+- for, while, do...while  
+- Nested Loops  
+- for...in, for...of  
+- break and continue  
+- Looping through Arrays and Objects  
+
+---
+
+### 📚 [Arrays](./08-arrays.md)
+- Creating and Accessing Arrays  
+- Modifying Elements  
+- Common Methods (`map`, `filter`, `reduce`, etc.)  
+- Sorting and Reversing  
+- Multidimensional Arrays  
+
+---
+
+### 🧱 [Objects](./09-objects.md)
+- Creating Objects  
+- Accessing and Modifying Properties  
+- Nested Objects  
+- Methods and Destructuring  
+- JSON Conversion  
+
+---
+
+### 🔤 [Strings](./)
+- [String Basics](./10-strings.md)
+- String Methods (`slice`, `replace`, `split`, etc.)
+- Template Literals  
+- String Immutability  
+
+---
+
+### 🖱️ [Events](./10-events.md)
+- Event Listeners  
+- Event Types  
+- Bubbling and Capturing  
+- Keyboard and Mouse Events  
+
+---
+
+### 🧩 [DOM Manipulation](./11-dom-manipulation.md)
+- Accessing Elements  
+- Modifying Styles and Attributes  
+- Traversing the DOM  
+- Creating and Removing Elements  
+- Event Binding  
+
+---
+
+### ⚡ [ES6 Features](./12-es6-features.md)
+- let and const  
+- Arrow Functions  
+- Template Literals  
+- Destructuring  
+- Modules (import/export)  
+- Classes  
+- Promises  
+
+---
+
+### 🏗️ [Classes](./13-classes.md)
+- Class Syntax and Constructor  
+- Inheritance and Super  
+- Getters and Setters  
+- Static Methods  
+
+---
+
+### ⏳ [Promises](./14-promises.md)
+- Creating and Using Promises  
+- then(), catch(), finally()  
+- Chaining Promises  
+- Promise.all and Promise.race  
+
+---
+
+### 💤 [Async / Await](./15-async-await.md)
+- async and await Syntax  
+- Error Handling in Async Code  
+- Fetch with Async  
+
+---
+
+### 🔢 [JSON](./16-json.md)
+- JSON Structure  
+- JSON.parse and JSON.stringify  
+- Using JSON in APIs  
+
+---
+
+### ⚠️ [Error Handling](./17-error-handling.md)
+- try...catch...finally  
+- throw Statement  
+- Custom Errors  
+- Debugging  
+
+---
+
+### 💾 [Local Storage](./18-local-storage.md)
+- localStorage vs sessionStorage  
+- Store, Retrieve, and Clear Data  
+- JSON + Local Storage  
+
+---
+
+### 🌐 [Fetch API](./19-fetch-api.md)
+- Fetch Basics  
+- GET and POST Requests  
+- Handling Responses  
+- Async Fetch Examples  
+
+---
+
+### 📦 [Modules](./20-modules.md)
+- Export and Import Syntax  
+- Default and Named Exports  
+- Organizing Code into Modules  
+
+---
+
+### 🧮 [Advanced JavaScript](./advanced)
+
+#### 📁 [Scope and Closures](./advanced/21-scope-closures.md)
+- Lexical Scope  
+- Closures Explained  
+- Use Cases  
+
+#### 📁 [Prototype and Inheritance](./advanced/22-prototypes.md)
+- Prototype Chain  
+- Object.create()  
+- Class vs Prototype  
+
+#### 📁 [Asynchronous Programming](./advanced/23-async-programming.md)
+- Event Loop  
+- Call Stack  
+- Task Queue and Microtasks  
+
+---
+
+### 💻 [Projects and Examples](./projects)
+- [Mini Projects](./projects/24-mini-projects.md)  
+- [Practice Tasks](./projects/25-tasks.md)  
+
+---
+
+## 📘 Conclusion
+JavaScript is a dynamic, flexible language for building modern web applications.  
+It powers both frontend and backend technologies and is essential for every web developer.
+
+© TINITIATE.COM
